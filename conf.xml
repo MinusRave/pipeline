@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pipeline>
+	<command>
+		<name>prova1</name>
+		<params>
+			<short>p1</short>
+			<long>parametro1</long>
+			<description>descrizione del primo parametro</description>
+		</params>
+	</command>
+</pipeline>
